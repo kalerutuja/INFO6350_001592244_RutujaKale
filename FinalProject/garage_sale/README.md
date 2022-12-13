@@ -30,4 +30,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Alt text](/Users/rutuja/Downloads/GarageSale.jpeg?raw=true "Garage sale app Screen navigation")
+![HyperGarageSale](GarageSale.jpeg?raw=true "Garage sale app Screen navigation")

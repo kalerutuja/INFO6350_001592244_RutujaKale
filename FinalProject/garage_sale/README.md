@@ -1,4 +1,4 @@
-# GarageSale
+# Hyper GarageSale
 
 A new Flutter project.
 

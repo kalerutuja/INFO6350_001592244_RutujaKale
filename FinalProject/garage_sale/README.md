@@ -34,6 +34,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Demo Video
 
-[<img src="https://raw.githubusercontent.com/kalerutuja/INFO6350_001592244_RutujaKale/main/FinalProject/garage_sale/assets/images/GS.gif" width="50%">](https://github.com/kalerutuja/INFO6350_001592244_RutujaKale/blob/main/FinalProject/garage_sale/Demo_HyperGarageSale.mp4)
+[<img src="https://raw.githubusercontent.com/kalerutuja/INFO6350_001592244_RutujaKale/main/FinalProject/garage_sale/assets/images/GS.gif" width="20%">](https://github.com/kalerutuja/INFO6350_001592244_RutujaKale/blob/main/FinalProject/garage_sale/Demo_HyperGarageSale.mp4)
 
 

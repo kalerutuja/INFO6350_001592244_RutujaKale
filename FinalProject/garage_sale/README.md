@@ -31,3 +31,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ![HyperGarageSale](GarageSale.jpeg?raw=true "Garage sale app Screen navigation")
+
+### Demo Video
+
+![demo](https://github.com/kalerutuja/INFO6350_001592244_RutujaKale/blob/main/FinalProject/garage_sale/Demo_HyperGarageSale.mp4)
